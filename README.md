@@ -1,16 +1,22 @@
 # instagram_clone
 
-A new Flutter project.
+A fully responsive Flutter application replicating core Instagram features:
+
+- Real-time functionality for an interactive user experience
+- Comprehensive user authentication:
+  - Email/password sign-up and login
+  - Secure sign-out functionality
+- Social media essentials:
+  - Post creation and upload
+  - Like and comment on posts
+  - User search functionality
+  - Follow/unfollow users
+- Real-time updates:
+  - Post feed
+  - Follower/following lists
+
+Key technologies: Flutter, Dart, Firebase (assumed for real-time features)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![insta clone output ss](https://github.com/user-attachments/assets/e31f59ee-70c3-4f13-9140-ef2652182dde)
